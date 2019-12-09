@@ -10,7 +10,6 @@
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](https://blog.zhangfeibiao.com/my-github-repos)
 * [世界，你好！](https://blog.zhangfeibiao.com/hello-solo)
 
 
